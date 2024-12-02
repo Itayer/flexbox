@@ -1,0 +1,19 @@
+﻿body {
+}
+
+.container {
+    background-color:gray;
+    border:1px solid black;
+    display:flex;
+/*    flex-direction:column;*/
+/*    flex-direction:column-reverse;*/
+/*    flex-direction:row-reverse;*/
+
+}
+
+.item {
+    background-color: coral;
+    border: 1px solid black;
+    height: 100px;
+    width: 200px;    
+}

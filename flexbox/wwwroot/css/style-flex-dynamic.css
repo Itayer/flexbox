@@ -1,0 +1,22 @@
+﻿body {
+}
+
+.container {
+    background-color: gray;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;    
+    width: 100%; 
+}
+
+.item {
+    background-color: coral;
+    border: 1px solid black;
+    height: 100px;
+    width: 200px;    
+    flex:1;
+}
+
+.item-1 {
+/*    flex-shrink : 2;*/
+}

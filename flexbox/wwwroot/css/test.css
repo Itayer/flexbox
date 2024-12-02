@@ -1,0 +1,30 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height:1.6;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+    a:hover {
+        color: coral;
+    }
+
+h2 {
+    margin-bottom: 20px;
+}
+p {
+    margin:20px 0;
+}

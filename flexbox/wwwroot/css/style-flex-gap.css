@@ -1,0 +1,22 @@
+﻿body {
+}
+
+.container {
+    background-color:gray;
+    border:1px solid black;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    gap:10px;
+/*    row-gap:10px;*/
+/*    column-gap:10px;*/
+
+
+}
+
+.item {
+    background-color: coral;
+    border: 1px solid black;
+    height: 100px;
+    width: 200px;    
+}
