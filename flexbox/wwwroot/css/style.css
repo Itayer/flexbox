@@ -1,0 +1,14 @@
+﻿body {
+}
+
+.container {
+    background-color:gray;
+    border:1px solid black;
+}
+
+.item {
+    background-color: coral;
+    border: 1px solid black;
+    height: 100px;
+    width: 200px;    
+}
